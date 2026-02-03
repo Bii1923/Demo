@@ -4,6 +4,13 @@ Demo repository
 
 
 
-Here is a change to the readme 
+Demo contains the following items:
 
-Now I have made a change to the Readme with Jupyter
+About Me.md
+
+add-analysis-plan.md
+
+LICENSE
+
+README.md
+
